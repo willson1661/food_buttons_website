@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/food-app-buttons/static/css/main.18950b04.chunk.css",
+    "main.js": "/food-app-buttons/static/js/main.87500200.chunk.js",
+    "main.js.map": "/food-app-buttons/static/js/main.87500200.chunk.js.map",
+    "runtime-main.js": "/food-app-buttons/static/js/runtime-main.7ad3d668.js",
+    "runtime-main.js.map": "/food-app-buttons/static/js/runtime-main.7ad3d668.js.map",
+    "static/css/2.66772492.chunk.css": "/food-app-buttons/static/css/2.66772492.chunk.css",
+    "static/js/2.960d7c05.chunk.js": "/food-app-buttons/static/js/2.960d7c05.chunk.js",
+    "static/js/2.960d7c05.chunk.js.map": "/food-app-buttons/static/js/2.960d7c05.chunk.js.map",
+    "static/js/3.498b1c9c.chunk.js": "/food-app-buttons/static/js/3.498b1c9c.chunk.js",
+    "static/js/3.498b1c9c.chunk.js.map": "/food-app-buttons/static/js/3.498b1c9c.chunk.js.map",
+    "static/js/4.dad319f2.chunk.js": "/food-app-buttons/static/js/4.dad319f2.chunk.js",
+    "static/js/4.dad319f2.chunk.js.map": "/food-app-buttons/static/js/4.dad319f2.chunk.js.map",
+    "static/js/5.25bac9fc.chunk.js": "/food-app-buttons/static/js/5.25bac9fc.chunk.js",
+    "static/js/5.25bac9fc.chunk.js.map": "/food-app-buttons/static/js/5.25bac9fc.chunk.js.map",
+    "index.html": "/food-app-buttons/index.html",
+    "static/css/2.66772492.chunk.css.map": "/food-app-buttons/static/css/2.66772492.chunk.css.map",
+    "static/css/main.18950b04.chunk.css.map": "/food-app-buttons/static/css/main.18950b04.chunk.css.map",
+    "static/js/2.960d7c05.chunk.js.LICENSE.txt": "/food-app-buttons/static/js/2.960d7c05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ad3d668.js",
+    "static/css/2.66772492.chunk.css",
+    "static/js/2.960d7c05.chunk.js",
+    "static/css/main.18950b04.chunk.css",
+    "static/js/main.87500200.chunk.js"
+  ]
+}
